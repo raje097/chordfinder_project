@@ -16,8 +16,7 @@ To run the project,
 
    python3 chordfinder_base.py
    or
-   python chordfinder_base.py
-   and input your tune’s notes
+   python chordfinder_base.py, and input your tune’s notes
 
 ## Flowchart
 
