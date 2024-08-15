@@ -9,7 +9,14 @@ A software application designed to analyze a segment of a song the user provides
 -[SampleJSON](#samplejson)
 
 ## Usage 
-To run the project, 
+To run the project,
+1. Download the Source Code - chordfinder_base.py
+2. If using an Editor, open the Source Code file in the Editor, run it, and input your tune’s notes
+3. If using the terminal, open the terminal, navigate to the folder with your source code file, and then run this command:
+
+   python3 chordfinder_base.py
+   or
+   python chordfinder_base.py
 
 ## Flowchart
 
