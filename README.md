@@ -4,8 +4,8 @@
 A software application designed to analyze a segment of a song the user provides and generate a comprehensive set of instructions. This includes a sequence of chords, the precise order to play them, and detailed hand assignments for both the left and right hands. The application tailors these outputs to align with the specific musical characteristics of the input segment, ensuring a coherent and musically accurate interpretation.
 
 ## Table of Contents
--[Usage](#usage)
 -[FlowChart](#flowchart)
+-[Usage](#usage)
 -[SampleJSON](#samplejson)
 
 ## Flowchart
