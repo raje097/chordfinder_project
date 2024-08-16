@@ -8,6 +8,9 @@ A software application designed to analyze a segment of a song the user provides
 -[FlowChart](#flowchart)
 -[SampleJSON](#samplejson)
 
+## Flowchart
+![ChordFinder drawio](https://github.com/user-attachments/assets/1ac74f2d-ea24-4fa6-bb9d-d5e53191737d)
+
 ## Usage 
 To run the project,
 1. Download the Source Code - chordfinder_base.py
@@ -17,9 +20,6 @@ To run the project,
    python3 chordfinder_base.py
    or
    python chordfinder_base.py, and input your tune’s notes
-
-## Flowchart
-
-
+   
 ## SampleJSON
 <img width="732" alt="Sample JSON Document" src="https://github.com/user-attachments/assets/d2c52478-6388-4cb0-b070-db0893f5f90e">
