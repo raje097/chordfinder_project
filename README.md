@@ -11,7 +11,7 @@ A software application designed to analyze a segment of a song the user provides
 
 ## Usage 
 To run the project,
-1. Need Pymongo to Connect to Database and Certifi - Dowload Pymongo and Certifi
+1. Need Pymongo and SSL Certificate to Connect to Database - Download Pymongo and Certifi
 1. Download the Source Code - chordfinder_base.py
 2. If using an Editor, open the Source Code file in the Editor, run it, and input your tune’s notes
 3. If using the terminal, open the terminal, navigate to the folder with your source code file, and then run this command:
